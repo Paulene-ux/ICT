@@ -30,10 +30,17 @@ matrix7 = np.zeros((2, 3))
 
 # Printing all matrices
 print("Matrix 1:\n", matrix1)
+
 print("\nMatrix 2:\n", matrix2)
+
 print("\nMatrix 3 (Addition):\n", matrix3)
+
 print("\nMatrix 4 (Scalar Multiplication):\n", matrix4)
+
 print("\nMatrix 5 (Transpose of Matrix 2):\n", matrix5)
+
 print("\nMatrix 6 (Matrix Multiplication):\n", matrix6)
+
 print("\nSum of all elements in Matrix 3:", sum_matrix3)
+
 print("\nMatrix 7 (Zero Matrix):\n", matrix7)
